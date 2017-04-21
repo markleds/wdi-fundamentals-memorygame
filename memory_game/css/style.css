@@ -44,6 +44,9 @@ nav a {
 	font-size: 18px;
 	text-decoration: none;
 }
+nave a:hover {
+
+}
 main {
 	width: 850px;
 	margin: 35px auto;
@@ -79,6 +82,9 @@ footer {
 .name {
 	color: #F15B31;
 	font-weight: 700;
+}
+a {
+	border-bottom: 2px solid transparent;
 }
 a:hover {
 	border-color: white;
